@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Serve Jekyll Site",
+      "type": "node", // Using 'node' type is a common workaround to run shell tasks
+      "request": "launch",
+      "preLaunchTask": "Serve (Development)" // Executes the task defined in tasks.json
+    }
+    // Add Ruby debugging configurations here if needed, potentially using vscode-rdbg
+  ]
+}
