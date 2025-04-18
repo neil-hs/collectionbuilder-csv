@@ -23,11 +23,11 @@ Please feel free to ask questions in the main [CollectionBuilder discussion foru
 
 ## Configuring a New Site from this Template
 
-To configure a new site using this template, follow these steps:
+To configure a new site using this template customized for Your Company, follow these steps:
 
 1. Edit the `_config.yml` file to set your site-specific information:
-   - `url`: The full URL where your site will be hosted (e.g., https://heritagestudios.co.nz)
-   - `baseurl`: The path on the domain if your site is not at the root (e.g., /digital/collection)
+   - `url`: The full URL where your site will be hosted (e.g., https://yourcompanydomain.com)
+   - `baseurl`: The path on the domain if your site is not at the root (e.g., /your-base-path)
    - `title`: The title of your site as it will appear in the banner
    - `tagline`: A short phrase or tagline for your site
    - `description`: A brief description of your collection for meta tags
@@ -36,11 +36,11 @@ To configure a new site using this template, follow these steps:
    - Organization branding options such as `organization-name`, `organization-link`, and logos
 
 2. Customize the theme settings in `_data/theme.yml`:
-   - Set the `featured-image` for the home page banner
+   - Set the `featured-image` for the home page banner (default is `/assets/img/your-company-featured-image.jpg`)
    - Adjust map settings, timeline navigation, and other visual options
    - Configure navbar colors, fonts, and icons as desired
 
-3. Add your collection metadata CSV file to the `_data` folder and update the `metadata` field in `_config.yml` to match the filename (without the `.csv` extension).
+3. Add your collection metadata CSV file to the `_data` folder and update the `metadata` field in `_config.yml` to match the filename (without the `.csv` extension). A sample metadata file `demo-compoundobjects-metadata.csv` is included as a starting point.
 
 4. Build and serve your site locally using Jekyll commands:
    - Run `bundle install` to install dependencies
