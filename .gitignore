@@ -20,3 +20,6 @@ objects/
 
 # Ignore environment variables file
 .env
+
+# Ignore local bin stubs
+bin/

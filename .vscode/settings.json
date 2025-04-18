@@ -1,0 +1,9 @@
+{
+  "workbench.editorAssociations": {
+    "*.md": "vscode.markdown.preview.editor"
+  },
+  "markdown-preview-github-styles.colorTheme": "auto",
+  "markdown-preview-github-styles.lightTheme": "markdown-preview-github-styles.lightTheme",
+  "markdown-preview-github-styles.darkTheme": "markdown-preview-github-styles.darkTheme",
+  "markdown.styles": []
+}

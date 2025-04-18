@@ -1,13 +1,8 @@
 {
   "recommendations": [
-    "rebornix.ruby",
-    "KoichiSasada.vscode-rdbg",
     "redhat.vscode-yaml",
     "DavidAnson.vscode-markdownlint",
-    "shd101wyy.markdown-preview-enhanced",
     "mechatroner.rainbow-csv",
-    "eamodio.gitlens",
-    "github.vscode-pull-request-github"
-    // "ginfuru.vscode-jekyll-snippets" // Optional Jekyll snippets
+    "shopify.ruby-lsp"
   ]
 }
