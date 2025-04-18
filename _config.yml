@@ -55,6 +55,9 @@ metadata: metadata
 # organization-logo-banner: ""
 # organization-logo-nav: ""
 
+# Enable Mermaid support (true/false)
+mermaid_support: false
+
 ##########
 # ROBOTS EXCLUDE
 #
