@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "shopify.ruby-lsp",
+    "rebornix.ruby",
+    "sissel.shopify-liquid",
+    "redhat.vscode-yaml",
+    "yzhang.markdown-all-in-one",
+    "esbenp.prettier-vscode",
+    "davidanson.vscode-markdownlint",
+    "streetsidesoftware.code-spell-checker",
+    "eamodio.gitlens",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "mrmlnc.vscode-scss",
+    "editorconfig.editorconfig",
+    "usernamehw.errorlens",
+    "gruntfuggly.todo-tree"
+  ],
+  "unwantedRecommendations": []
+}
